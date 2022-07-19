@@ -13,8 +13,9 @@ If you use any scripts in this repo for results presented in a scientific public
 Vigna-Gómez, A. et al. (2022). Mergers prompted by dynamics in compact, multiple-star systems: a stellar-reduction case for the massive triple TIC 470710327. [doi:10.1093/mnrasl/slac067](https://doi.org/10.1093/mnrasl/slac067) [arxiv:2204.10600](https://arxiv.org/abs/2204.10600).
 
 ## Author Contributions
-All scripts here were written and curated by Alejandro Vigna-Gómez. 
-The underlying dynamics data was provided by Bin Liu.
+Underlying dynamics data provided by Bin Liu.
+Plotting scripts written by Alejandro Vigna-Gómez. 
+Repository curated by Alejandro Vigna-Gómez. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
