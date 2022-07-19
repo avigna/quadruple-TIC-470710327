@@ -1,0 +1,7 @@
+Meaning of Different Columns
+
+1.semimajor axis of 8+8 (Binary 1) a_1 [AU]
+
+2.Contact fraction
+
+3.\beta

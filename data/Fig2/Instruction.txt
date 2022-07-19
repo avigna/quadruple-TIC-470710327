@@ -1,0 +1,15 @@
+Meaning of Different Columns
+
+1.Initial I_13 [Degrees]
+
+2.Maximum eccentricity e_1
+
+3.Maximum of I_13 [Degrees]
+
+4.Minimum of I_13 [Degrees]
+
+5.Maximum eccentricity e_2
+
+6.Maximum of I_23 [Degrees]
+
+7.Minimum of I_23 [Degrees]
