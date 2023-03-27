@@ -5,7 +5,7 @@
 This repository has been developed to store the underlying data and plotting scripts used in [Vigna-Gómez et al. 2022b](https://arxiv.org/abs/2204.10600).
 
 ## Contact
-Please email your queries to Alejandro Vigna-Gómez (avignagomez@nbi.ku.dk).
+Please email your queries to Alejandro Vigna-Gómez (avigna@mpa-garching.mpg.de).
 
 ## Acknowledgements
 If you use any scripts in this repo for results presented in a scientific publication, please cite:
